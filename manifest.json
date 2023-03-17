@@ -1,16 +1,16 @@
 {
-  "id": "dev.replugged.ThemeTemplate",
-  "name": "Theme Template",
-  "description": "A theme template",
+  "id": "dev.Majko229.Nordic",
+  "name": "Nordic Replugged",
+  "description": "Betterdiscord Nordic theme ported to Replugged",
   "author": {
-    "name": "replugged",
-    "discordID": "1000992611840049192",
-    "github": "replugged-org"
+    "name": "Majko229",
+    "discordID": "709785204318929017",
+    "github": "Hnedahmotsnalegogur"
   },
   "version": "1.0.0",
   "updater": {
     "type": "github",
-    "id": "replugged-org/theme-template"
+    "id": "Hnedahmotsnalegogur/Nordic-replugged-port"
   },
   "license": "MIT",
   "type": "replugged-theme",
